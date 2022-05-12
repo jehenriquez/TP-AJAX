@@ -1,0 +1,149 @@
+body {
+    height: 100vh;
+}
+
+
+/* 
+@media (min-width: 576px) { ... } Cuando el ancho de la pantalla tenga un ancho mayor a 576px lees el código encerrado dentro de las llaves que abren y cierran la media querie.
+
+@media (max-width: 600px) { ... } Cuando el ancho de la pantalla tenga un ancho menor a 600px o menos lees el código encerrado dentro de las llaves que abren y cierran la media querie.
+
+*/
+
+@media (min-width: 992px) {
+    /* xl - lg */
+    #header {
+        background-color: #1aff03;
+        justify-content: start;
+        align-items: center;
+        font-size: 200%;
+        height: 10vh;
+    }
+    #uno {
+        background-color: #FF0000;
+        justify-content: center;
+        align-items: flex-start;
+        font-size: 500%;
+        height: 80vh;
+    }
+    #dos {
+        background-color: #FF0000;
+        justify-content: center;
+        align-items: flex-start;
+        font-size: 500%;
+        height: 80vh;
+    }
+    #tres {
+        background-color: #FF0000;
+        justify-content: center;
+        align-items: flex-start;
+        font-size: 500%;
+        height: 80vh;
+    }
+    #footer1 {
+        background-color: #FBFF00;
+        justify-content: end;
+        align-items: center;
+        font-size: 200%;
+        height: 10vh;
+    }
+    #footer2 {
+        background-color: #FBFF00;
+        justify-content: start;
+        align-items: center;
+        font-size: 200%;
+        height: 10vh;
+    }
+}
+
+@media (max-width: 991px) {
+    /* md */
+    #header {
+        background-color: #00ffff;
+        justify-content: start;
+        align-items: center;
+        font-size: 200%;
+        height: 10vh;
+    }
+    #uno {
+        background-color: #FF0000;
+        justify-content: start;
+        align-items: center;
+        font-size: 500%;
+        height: 40vh;
+    }
+    #dos {
+        background-color: #FF0000;
+        justify-content: end;
+        align-items: center;
+        font-size: 500%;
+        height: 40vh;
+    }
+    #tres {
+        background-color: #1aff03;
+        justify-content: center;
+        align-items: center;
+        font-size: 500%;
+        height: 30vh;
+    }
+    #footer1 {
+        background-color: #FBFF00;
+        justify-content: center;
+        align-items: center;
+        height: 10vh;
+        font-size: 200%;
+    }
+    #footer2 {
+        background-color: #FBFF00;
+        justify-content: center;
+        align-items: center;
+        height: 10vh;
+        font-size: 200%;
+    }
+}
+
+@media (max-width: 767px) {
+    /* sm */
+    #header {
+        background-color: #ff8243;
+        justify-content: center;
+        align-items: center;
+        font-size: 200%;
+        height: 11vh;
+    }
+    #uno {
+        background-color: #FF0000;
+        justify-content: start;
+        align-items: center;
+        font-size: 500%;
+        height: 23vh;
+    }
+    #dos {
+        background-color: #00ffff;
+        justify-content: center;
+        align-items: center;
+        font-size: 500%;
+        height: 23vh;
+    }
+    #tres {
+        background-color: #FF0000;
+        justify-content: end;
+        align-items: center;
+        font-size: 500%;
+        height: 23vh;
+    }
+    #footer1 {
+        background-color: #FBFF00;
+        justify-content: center;
+        align-items: center;
+        height: 10vh;
+        font-size: 200%;
+    }
+    #footer2 {
+        background-color: #FBFF00;
+        justify-content: center;
+        align-items: center;
+        height: 10vh;
+        font-size: 200%;
+    }
+}

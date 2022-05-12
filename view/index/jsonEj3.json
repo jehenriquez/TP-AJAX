@@ -1,0 +1,73 @@
+[{
+        "id": 1,
+        "name": "Disfraz de Gato de Navidad",
+        "text": "Diseño único: los disfraces navideños para gatos están especialmente diseñados para mascotas, usar este nuevo disfraz para saludar a la Navidad hará que tu mascota sea más hermosa y encantadora.",
+        "src": "../img/1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Traje fiesta",
+        "text": "Es para un día especial y con gran diseño. La tela no sede, así que no le tome las medidas justa, Tiene broches reforzados y corbata.",
+        "src": "../img/02.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Buzo Abrigo Ropa Gato Peluche",
+        "text": "Este suéter para mascotas está hecho de lana de algodón de alta calidad, que es de buena calidad, muy suavey cómoda, y también muy cálida. ",
+        "src": "../img/03.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Abrigo Ropa Gato Sweater Tejido Lana",
+        "text": "ROPA TEJIDA PARA TU MASCOTA DE EXCELENTE CALIDAD!!!",
+        "src": "../img/04.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Cálido Suéter con adorno de lunares",
+        "text": "Este suéter para mascotas está hecho de lana de algodón de alta calidad, que es de buena calidad, muy suavey cómoda, y también muy cálida. ",
+        "src": "../img/05.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Cálido Suéter con adorno",
+        "text": "Este suéter para mascotas está hecho de lana de algodón de alta calidad, que es de buena calidad, muy suavey cómoda, y también muy cálida. ",
+        "src": "../img/06.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Moño Cuello Gato",
+        "text": "Todo para Mascotas Coquetas. ",
+        "src": "../img/07.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Collar Corbata",
+        "text": "Corbata para mascotas. ",
+        "src": "../img/08.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Collar Corbata Negra",
+        "text": "Corbata para mascotas. ",
+        "src": "../img/09.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Lion Mane",
+        "text": "Una calidad de Premiere para las necesidades de su mascota de cosplay. nuestra tan melena de león Pet disfraz es el seguro de cómo Cute.",
+        "src": "../img/disfraz.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Easy Joy Traje",
+        "text": "el Gata Camiseta de recuperación pequeños se puede utilizar para el cuidado de la desinfección de mascotas, el esputo posoperatorio,, mantener el calor después del afeitado, prevenir el acoso de otras mascotas en el período fisiológico, destetar a los gatitos de sus madres.",
+        "src": "../img/traje-de-recuperacion-profesional.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Hillylolly Jersey",
+        "text": "Este suéter para mascotas está hecho de lana de algodón de alta calidad, que es de buena calidad, muy suavey cómoda, y también muy cálida. ",
+        "src": "../img/hillylolly-jersey.jpg"
+    }
+]

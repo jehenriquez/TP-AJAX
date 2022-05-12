@@ -1,0 +1,25 @@
+[{
+        "id": 0,
+        "tab": "home",
+        "titulo": "",
+        "texto": "Aunque muchas personas ven como un capricho el hecho de utilizar ropa en las mascotas, lo cierto es que en muchos casos puede ser beneficioso. El pelo tiene la capacidad de proteger al animal de temperaturas extremas; pero al igual que los humanos, las mascotas pueden sentir frío o calor, en especial cuando el cambio de temperaturas se produce de manera brusca. En el mercado existen una gran variedad de prendas especialmente creadas para perros y gatos; el truco para elegir ropa para tu mascota adecuadamente está en optar por aquellas prendas que mejor se adapten al animal. "
+    },
+    {
+        "id": 1,
+        "tab": "consejo1",
+        "titulo": "La comodidad",
+        "texto": "Es fundamental que la ropa no limite los movimientos del animal, haciéndolo sentir incómodo. Para ello es importante conocer la talla exacta. Se puede calcular midiendo el largo de su espalda, el contorno de su pecho y del cuello, o simplemente llevándolos en el momento de hacer la compra."
+    },
+    {
+        "id": 2,
+        "tab": "consejo2",
+        "titulo": "La tela",
+        "texto": "El tipo de tela elegido para la ropa de nuestras mascotas es realmente importante. Existen prendas realizadas con telas hipoalergénicas como por ejemplo el jersey de algodón. Siempre se recomienda que el algodón esté presente, ya sea en toda la prenda o al menos en su parte interior, ya que muchas otras telas pueden llegar a provocar alergia o picazón."
+    },
+    {
+        "id": 3,
+        "tab": "consejo3",
+        "titulo": "La época del año",
+        "texto": "Si tu perro o gato pasa mucho tiempo al aire libre durante el invierno, se aconseja optar por un abrigo. En cambio, si durante las épocas más frías del año el animal suele quedarse en casa y buscas una prenda para el verano, la mejor opción será elegir una más ligera y fina. "
+    }
+]
