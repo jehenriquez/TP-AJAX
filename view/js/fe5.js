@@ -3,6 +3,7 @@ $(document).ready(function() {
         paging: true,
         searching: true,
         pageLength: 5,
+        "lengthChange": false,
         "ajax": {
             "url": "../../model/consulta.php",
             "dataSrc": ""

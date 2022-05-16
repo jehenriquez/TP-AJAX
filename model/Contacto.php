@@ -1,5 +1,5 @@
 <?php
-include_once('conector/BaseDatos.php');
+include_once('connector/BaseDatos.php');
 class Contacto{
     private $idContacto;
     private $nombre;

@@ -10,7 +10,7 @@
 
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
         <script src="https://code.jquery.com/jquery-3.6.0.js" integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=" crossorigin="anonymous"></script>
-    
+        
 
     <!--    Datatables  -->
     <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/bs4/dt-1.10.20/datatables.min.css"/>  
@@ -19,32 +19,34 @@
 
 
 
-    <body class="m-0 position-relative mb-4">
-        <div class="container-fluid">
-            <div class="row d-flex justify-content-center">
-                <nav class="header navbar navbar-expand-sm bg-dark navbar-dark">
-                    <div class="container-fluid">
-                        <a class="navbar-brand" href="#">Home</a>
-                        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
+    <body class="d-flex flex-column min-vh-100">
+        <header>
+            <div class="container-fluid">
+                <div class="row d-flex justify-content-center">
+                    <nav class="header navbar navbar-expand-sm bg-dark navbar-dark">
+                        <div class="container-fluid">
+                            <a class="navbar-brand" href="#">Home</a>
+                            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
 
-                        <div class="collapse navbar-collapse" id="collapsibleNavbar">
-                            <ul class="navbar-nav">
-                                <li class="nav-item dropdown">
-                                    <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown">TP-AJAX</a>
-                                    <ul class="dropdown-menu">
-                                        <li><a class="dropdown-item" href="#">Ejercicio 1</a></li>
-                                        <li><a class="dropdown-item " href="ajax_ejercicio2.php">Ejercicio 2</a></li>
-                                        <li><a class="dropdown-item " href="ajax_ejercicio3.php ">Ejercicio 3</a></li>
-                                        <li><a class="dropdown-item " href="#">Ejercicio 4</a></li>
-                                        <li><a class="dropdown-item " href="ajax_ejercicio5.php ">Ejercicio 5</a></li>
-                                        <li><a class="dropdown-item " href="# ">Ejercicio 6</a></li>
-                                    </ul>
-                                </li>
-                            </ul>
+                            <div class="collapse navbar-collapse" id="collapsibleNavbar">
+                                <ul class="navbar-nav">
+                                    <li class="nav-item dropdown">
+                                        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown">TP-AJAX</a>
+                                        <ul class="dropdown-menu">
+                                            <li><a class="dropdown-item" href="ajax_ejercicio1.php">Ejercicio 1</a></li>
+                                            <li><a class="dropdown-item " href="ajax_ejercicio2.php">Ejercicio 2</a></li>
+                                            <li><a class="dropdown-item " href="ajax_ejercicio3.php">Ejercicio 3</a></li>
+                                            <li><a class="dropdown-item " href="ajax_ejercicio4.php">Ejercicio 4</a></li>
+                                            <li><a class="dropdown-item " href="ajax_ejercicio5.php">Ejercicio 5</a></li>
+                                            <li><a class="dropdown-item " href="ajax_ejercicio6.php">Ejercicio 6</a></li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </div>
                         </div>
-                    </div>
-                </nav>
+                    </nav>
+                </div>
             </div>
-        </div>
+        </header>

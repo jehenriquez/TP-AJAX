@@ -6,9 +6,8 @@ include_once('../estructura/header.php');
     
     <div id="ej3">
         
-        <!-- CONTENIDO WRAP -->
+       
         <div class="tab-content">
-            <!-- Gatito 1 -->
             <!-- Lista elementos -->
             <div class="tab-pane show active mt-4" id="elemento-1">
                 <div class="row">

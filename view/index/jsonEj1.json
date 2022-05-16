@@ -1,0 +1,30 @@
+[{
+        "tipo": "CHALECO CORAZON ROJO",
+        "talles": [
+            "S",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "precio": "$5000",
+        "src": "../img/CHALECO_ROJO.jpg"
+    },
+    {
+        "tipo": "CHALECO CORAZON AZUL",
+        "talles": [
+            "S"
+        ],
+        "precio": "$5500",
+        "src": "../img/CHALECO_ROJO.jpg"
+    },
+    {
+        "tipo": "CHALECO CORAZON GRIS",
+        "talles": [
+            "S",
+            "L",
+            "XL"
+        ],
+        "precio": "$6000",
+        "src": "../img/CHALECO_ROJO.jpg"
+    }
+]

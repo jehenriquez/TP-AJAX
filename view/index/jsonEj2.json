@@ -1,13 +1,13 @@
 [{
         "id": 0,
         "tab": "home",
-        "titulo": "",
+        "titulo": "PA",
         "texto": "Aunque muchas personas ven como un capricho el hecho de utilizar ropa en las mascotas, lo cierto es que en muchos casos puede ser beneficioso. El pelo tiene la capacidad de proteger al animal de temperaturas extremas; pero al igual que los humanos, las mascotas pueden sentir frío o calor, en especial cuando el cambio de temperaturas se produce de manera brusca. En el mercado existen una gran variedad de prendas especialmente creadas para perros y gatos; el truco para elegir ropa para tu mascota adecuadamente está en optar por aquellas prendas que mejor se adapten al animal. "
     },
     {
         "id": 1,
         "tab": "consejo1",
-        "titulo": "La comodidad",
+        "titulo": "PWA",
         "texto": "Es fundamental que la ropa no limite los movimientos del animal, haciéndolo sentir incómodo. Para ello es importante conocer la talla exacta. Se puede calcular midiendo el largo de su espalda, el contorno de su pecho y del cuello, o simplemente llevándolos en el momento de hacer la compra."
     },
     {

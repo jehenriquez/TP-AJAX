@@ -8,8 +8,8 @@ class AbmContacto
     {
         $resp = false;
         $param["idContacto"] = null;
-        $objCont = $this->cargarObjeto($param);
 
+        $objCont = $this->cargarObjeto($param);
         if ($objCont != null and $objCont->insertar()) {
 
             $resp = true;
